@@ -7,9 +7,15 @@ matrixAddition <- A + B
 
 matrixAddition
 
+<img width="144" height="69" alt="image" src="https://github.com/user-attachments/assets/07079b16-c42b-49f1-8392-3e561aabb63c" />
+
+
 matrixSubtraction <- A - B
 
 matrixSubtraction
+
+<img width="179" height="78" alt="image" src="https://github.com/user-attachments/assets/233ca00a-0f19-4a21-b373-f43819392e5a" />
+
 
 D <- diag(c(4, 1, 2, 3))
 
