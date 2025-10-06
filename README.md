@@ -31,3 +31,6 @@ E[-1,1] <- -2
 E[1,-1] <- -1
 
 E
+
+<img width="263" height="123" alt="image" src="https://github.com/user-attachments/assets/70e902eb-727a-4362-b3c8-6ed7a5fc523e" />
+
