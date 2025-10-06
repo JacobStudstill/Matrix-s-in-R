@@ -21,6 +21,9 @@ D <- diag(c(4, 1, 2, 3))
 
 D
 
+<img width="212" height="105" alt="image" src="https://github.com/user-attachments/assets/b9c198e8-d8b6-4bc0-939b-68f2c8d015b7" />
+
+
 E <- diag(3,5)
 
 E[-1,1] <- -2
